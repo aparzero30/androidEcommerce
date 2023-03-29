@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EcommerceNovare</string>
+    <string name="username_string">Username</string>
+    <string name="password_string">Password</string>
+    <string name="register_string">Register</string>
+    <string name="confirm_password_string">Password</string>
+</resources>
